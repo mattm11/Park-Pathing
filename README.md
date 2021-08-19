@@ -5,4 +5,4 @@ A program that emulates and predicts ride times at Disney World's Magic Kingdom 
 - We ask the user what day of the year they are visiting, how many rides they'd like to go on, and which rides they choose.
 - We show the user a greedy path for choosing the shortest wait times for the rides they selected, and advance the world clock based on the current ride wait, the ride duration, and about 10-20 minutes for time in between walking to the next ride.
 
-* This was a small group project for DS&A where we were comparing how quickly our data was stored and used with C++ STL's unordered maps versus ordered maps *
+This was a small group project for DS&A where we were comparing how quickly our data was stored and used with C++ STL's unordered maps versus ordered maps
